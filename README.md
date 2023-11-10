@@ -30,11 +30,11 @@ NodePix Gallery is a full-stack web application developed using Node.js, Express
     npm install
    
 3. **Set Up Environment Variables:**
-    Create a .env file in the project root with your Google OAuth credentials and MongoDB URI.
-    GOOGLE_CLIENT_ID=your_google_client_id
-    GOOGLE_CLIENT_SECRET=your_google_client_secret
-    MONGODB_URI=your_mongodb_uri
-    SESSION_SECRET=your_session_secret
+    - Create a .env file in the project root with your Google OAuth credentials and MongoDB URI.
+    - GOOGLE_CLIENT_ID=your_google_client_id.
+    - GOOGLE_CLIENT_SECRET=your_google_client_secret.
+    - MONGODB_URI=your_mongodb_uri.
+    - SESSION_SECRET=your_session_secret.
    
 4. **Run the Application:**
     npm start
